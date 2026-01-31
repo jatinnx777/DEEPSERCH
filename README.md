@@ -16,6 +16,8 @@ DEEPSERCH aims to restore **trust in digital content** by making deepfake detect
 ---
 
 ## 🧠 Key Features
+<img width="1601" height="763" alt="image" src="https://github.com/user-attachments/assets/880c7916-5f52-4780-bdd3-59f977392973" />
+
 
 - 🖼️ **Image Deepfake Detection**  
   Detects manipulated faces using AI-based visual inconsistency analysis.
