@@ -1,7 +1,7 @@
 # DEEPSEARCH
 Deepfake Detection System is an AI-powered platform designed to identify manipulated images, videos, and audio with high accuracy. It analyzes facial inconsistencies, voice patterns, and metadata to detect synthetic media in real time.
 
-## 🚀 Why DEEPSERCH?
+## 🚀 Why DEEPSEARCH?
 <img width="548" height="276" alt="image" src="https://github.com/user-attachments/assets/235caa7c-0f40-472d-b1cc-e27a8786564c" />
 (image from web )
 
