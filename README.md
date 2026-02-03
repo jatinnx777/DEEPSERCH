@@ -16,7 +16,7 @@ DEEPSERCH aims to restore **trust in digital content** by making deepfake detect
 ---
 
 ## 🧠 Key Features
-<img width="1601" height="763" alt="image" src="https://github.com/user-attachments/assets/880c7916-5f52-4780-bdd3-59f977392973" />
+<img width="921" height="694" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/7a2fa981-9f44-4d26-92cb-c32d3d9b3915" />
 
 
 - 🖼️ **Image Deepfake Detection**  
@@ -30,7 +30,7 @@ DEEPSERCH aims to restore **trust in digital content** by making deepfake detect
 
 - ⚡ **Real-Time Detection**  
   Fast processing for instant verification.
-  <img width="1078" height="855" alt="Screenshot (2" src="https://github.com/user-attachments/assets/04a50282-7e09-488a-abc9-3b62e09dfb79" />
+ <img width="987" height="867" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/9c325877-aea0-4bb9-80f3-2eb71e5b504a" />
 
 
 - 🌐 **Interactive UI**  
